@@ -1,0 +1,28 @@
+{
+  "title": "Finite-Memory Projection Corrections",
+  "upload_type": "software",
+  "description": "Public method-note package for a bounded finite-memory projection correction in cosmological consistency diagnostics. The package presents a reproducible, predeclared diagnostic operator and comparison protocol for reconstruction-level envelopes. It does not claim that the K2 operator is a final cosmological law, that a background theory is established, or that the current diagnostics constitute a direct measurement claim.",
+  "creators": [
+    {
+      "name": "Olcsak, Jozsef"
+    }
+  ],
+  "license": "MIT",
+  "version": "v0.1.0",
+  "access_right": "open",
+  "keywords": [
+    "finite-memory projection",
+    "cosmology",
+    "BAO",
+    "diagnostic operator",
+    "reproducibility package"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/tau-core-research/finite-memory-cosmology",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "This release is a diagnostic method-note snapshot, not empirical validation of a new cosmological model."
+}

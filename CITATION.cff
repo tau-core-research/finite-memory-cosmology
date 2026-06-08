@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this method-note repository, please cite it as below."
+title: "Finite-Memory Projection Corrections"
+authors:
+  - family-names: "Olcsak"
+    given-names: "Jozsef"
+date-released: "2026-06-08"
+version: "v0.1.0"
+repository-code: "https://github.com/tau-core-research/finite-memory-cosmology"
+license: "MIT"
+abstract: "Public method-note package for a bounded finite-memory projection correction in cosmological consistency diagnostics. The package presents a reproducible, predeclared diagnostic operator and comparison protocol; it is not a measurement-validation claim and does not establish a final cosmological law."
