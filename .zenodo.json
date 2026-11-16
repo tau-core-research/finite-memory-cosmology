@@ -4,7 +4,8 @@
   "description": "Public method-note package for a bounded finite-memory projection correction in cosmological consistency diagnostics. The package presents a reproducible, predeclared diagnostic operator and comparison protocol for reconstruction-level envelopes. It does not claim that the K2 operator is a final cosmological law, that a background theory is established, or that the current diagnostics constitute a direct measurement claim.",
   "creators": [
     {
-      "name": "Olcsak, Jozsef"
+      "name": "Olcsak, Jozsef",
+      "orcid": "0009-0003-7311-6522"
     }
   ],
   "license": "MIT",
